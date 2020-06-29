@@ -19,7 +19,16 @@ def combine_json():
             "2000", "2001", "2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009", 
             "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018"]
 
+    new_features = []
+
     for feature in data["features"]:
+        for place in db["coal_consumption"].find():
+            if feature["properties"]["name"] == place["Country"]:
+                new_features.append(feature)
+            else:
+                pass
+
+    for feature in new_features:
         for collection in collections:
             for place in db[f"{collection}"].find():
                 if feature["properties"]["name"] == place["Country"]:
@@ -28,6 +37,8 @@ def combine_json():
                 else:
                     pass
 
+    data["features"] = new_features
+    
     with open("static/data/presenting.json", 'w') as fp:
         json.dump(data, fp)
 
