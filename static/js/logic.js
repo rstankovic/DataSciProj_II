@@ -80,7 +80,7 @@ function createMap() {
             valueProperty: `${energyType}_${year}`,
             scale: ["#FFFFFF", "#8B0000"],
             steps: 10,
-            mode: "q",
+            mode: "e",
             style: {
                 color: "#FFFFFF",
                 weight: 1,
@@ -117,9 +117,9 @@ function createMap() {
     });
 };
 
-createMap();
-
 var div = L.DomUtil.create("div", "legend");
+
+createMap();
 
 d3.select("#energy_type_input").on("change", createMap());
 d3.select("#year_input").on("change", createMap());
