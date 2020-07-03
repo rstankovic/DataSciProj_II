@@ -1,0 +1,64 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.line-graph {
+    height: 200px;
+    width: 400px;
+}
+
+#sidebar {
+    width: 200px;
+    height: 2650px;
+    margin: 20px;
+    float:left;
+
+}
+
+#well {
+    width: 200px;
+    background-color: rgb(150, 194, 252);
+    border: 1px solid rgb(33, 33, 136);
+    border-radius: 5px;
+}
+
+#references {
+    width: 200px;
+    position: relative;
+    height: 200px;
+    margin-top: 250px;
+    background-color: rgba(240,240,240,1);
+    border: 1px solid rgba(220,220,220,1);
+    border-radius: 5px;
+    box-shadow: 0px 1px 1px;;
+}
+
+#references-title {
+    padding-left: 18px;
+    padding-top: 5px;
+    background-color: rgb(170,170,170);
+    height: 35px;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.container {
+    float: left;
+}
+
+#countries, #references-list {
+    list-style-type: none;
+}
+
+.country {
+    text-decoration: underline;
+    color: rgb(10, 10, 131);
+}
+
+#US {
+    color: red;
+}
+
+.reference {
+    color: black;
+}

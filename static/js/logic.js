@@ -88,7 +88,7 @@ function createMap() {
             },
 
             onEachFeature: function(feature, layer) {
-                layer.bindPopup(`<h5>${feature.properties.name}</h5><br><h6>${feature.properties[`${energyType}_${year}`]} ${units}</h6>`);
+                layer.bindPopup(`<h5>${feature.properties.name}</h5><h6>${feature.properties[`${energyType}_${year}`]} ${units}</h6>`);
             }
         }).addTo(myMap);
 
@@ -118,8 +118,6 @@ function createMap() {
 };
 
 var div = L.DomUtil.create("div", "legend");
-
-createMap();
 
 d3.select("#energy_type_input").on("change", createMap());
 d3.select("#year_input").on("change", createMap());

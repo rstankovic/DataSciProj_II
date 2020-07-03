@@ -5,8 +5,9 @@ body {
 
 #well {
     min-height: 20px;
+    width: 1000px;
     padding: 19px;
-    margin-bottom: 20px;
+    margin: 20px 20px 20px 100px;
     background-color: rgba(240,240,240,1);
     border: 1px solid rgba(220,220,220,1);
     border-radius: 5px;
@@ -16,6 +17,7 @@ body {
 #mapid {
     height: 500px;
     width: 1000px;
+    margin-left: 100px;
 }
 
 .legend {
@@ -53,4 +55,28 @@ body {
 .legend .legend_label {
     font: 12px;
     text-align: center;
+}
+
+#references {
+    position: relative;
+    margin-top: 40px;
+}
+
+#menu {
+    background-color: rgba(176,176,176,1);
+    margin: 0px 420px 0px 300px;
+    padding-top: 10px;
+}
+
+.reference {
+    display: inline-block;
+}
+
+#first-reference {
+    margin-left: 50px;
+}
+
+.link-image {
+    height: 150px;
+    width: 180px;
 }

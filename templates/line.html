@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <link rel="stylesheet" type="text/css" href="../static/css/styles2.css">
+
+    <title>Document</title>
+</head>
+<body>
+
+    <div id="sidebar">
+        <div id="well">
+            <h4>Countries</h4>
+            <ol id="countries">
+                <li id="DZ" class="country" onclick="updateTraces(this.id)">Algeria</li>
+                <li id="AR" class="country" onclick="updateTraces(this.id)">Argentina</li>
+                <li id="AU" class="country" onclick="updateTraces(this.id)">Australia</li>
+                <li id="BE" class="country" onclick="updateTraces(this.id)">Belgium</li>
+                <li id="BR" class="country" onclick="updateTraces(this.id)">Brazil</li>
+                <li id="CA" class="country" onclick="updateTraces(this.id)">Canada</li>
+                <li id="CL" class="country" onclick="updateTraces(this.id)">Chile</li>
+                <li id="CN" class="country" onclick="updateTraces(this.id)">China</li>
+                <li id="CO" class="country" onclick="updateTraces(this.id)">Colombia</li>
+                <li id="EG" class="country" onclick="updateTraces(this.id)">Egypt</li>
+                <li id="FR" class="country" onclick="updateTraces(this.id)">France</li>
+                <li id="DE" class="country" onclick="updateTraces(this.id)">Germany</li>
+                <li id="IN" class="country" onclick="updateTraces(this.id)">India</li>
+                <li id="ID" class="country" onclick="updateTraces(this.id)">Indonesia</li>
+                <li id="IR" class="country" onclick="updateTraces(this.id)">Iran</li>
+                <li id="IT" class="country" onclick="updateTraces(this.id)">Italy</li>
+                <li id="JP" class="country" onclick="updateTraces(this.id)">Japan</li>
+                <li id="KZ" class="country" onclick="updateTraces(this.id)">Kazakhstan</li>
+                <li id="KW" class="country" onclick="updateTraces(this.id)">Kuwait</li>
+                <li id="MY" class="country" onclick="updateTraces(this.id)">Malaysia</li>
+                <li id="MX" class="country" onclick="updateTraces(this.id)">Mexico</li>
+                <li id="NL" class="country" onclick="updateTraces(this.id)">Netherlands</li>
+                <li id="NZ" class="country" onclick="updateTraces(this.id)">New Zealand</li>
+                <li id="NG" class="country" onclick="updateTraces(this.id)">Nigeria</li>
+                <li id="NO" class="country" onclick="updateTraces(this.id)">Norway</li>
+                <li id="PL" class="country" onclick="updateTraces(this.id)">Poland</li>
+                <li id="PT" class="country" onclick="updateTraces(this.id)">Portugal</li>
+                <li id="RO" class="country" onclick="updateTraces(this.id)">Romania</li>
+                <li id="RU" class="country" onclick="updateTraces(this.id)">Russia</li>
+                <li id="SA" class="country" onclick="updateTraces(this.id)">Saudi Arabia</li>
+                <li id="ZA" class="country" onclick="updateTraces(this.id)">South Africa</li>
+                <li id="ES" class="country" onclick="updateTraces(this.id)">Spain</li>
+                <li id="SE" class="country" onclick="updateTraces(this.id)">Sweden</li>
+                <li id="TW" class="country" onclick="updateTraces(this.id)">Taiwan</li>
+                <li id="TH" class="country" onclick="updateTraces(this.id)">Thailand</li>
+                <li id="TR" class="country" onclick="updateTraces(this.id)">Turkey</li>
+                <li id="UA" class="country" onclick="updateTraces(this.id)">Ukraine</li>
+                <li id="AE" class="country" onclick="updateTraces(this.id)">United Arab Emirates</li>
+                <li id="GB" class="country" onclick="updateTraces(this.id)">United Kingdom</li>
+                <li id="US" class="country" onclick="updateTraces(this.id)">United States</li>
+                <li id="UZ" class="country" onclick="updateTraces(this.id)">Uzbekistan</li>
+                <li id="VE" class="country" onclick="updateTraces(this.id)">Venezuela</li>
+            </ol>
+        </div>
+        <div id="references">
+            <h6 id="references-title">References:</h6>
+            <ul id="references-list">
+                <li><a class="reference" href="index.html">Energy Map</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="container"></div>
+        <div class="row">
+            <div class="col-sm-6">
+                <div id="coal-prod" class="line_graph"></div>
+            </div>
+            <div class="col-sm-6">
+                <div id="coal-cons" class="line_graph"></div>
+            </div>    
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                <div id="oil-prod" class="line_graph"></div>
+            </div>
+            <div class="col-sm-6">
+                <div id="oil-cons" class="line_graph"></div>
+            </div>    
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                <div id="natural-gas-prod" class="line_graph"></div>
+            </div>
+            <div class="col-sm-6">
+                <div id="natural-gas-cons" class="line_graph"></div>
+            </div>    
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                <div id="electricity-prod" class="line_graph"></div>
+            </div>
+            <div class="col-sm-6">
+                <div id="electricity-cons" class="line_graph"></div>
+            </div>    
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                <div id="energy-prod" class="line_graph"></div>
+            </div>
+            <div class="col-sm-6">
+                <div id="energy-cons" class="line_graph"></div>
+            </div>    
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                <div id="renewables" class="line_graph"></div>
+            </div>
+            <div class="col-sm-6"></div>    
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+    <script src="../static/js/logic2.js"></script>
+</body>
+</html>

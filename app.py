@@ -6,6 +6,9 @@ app = Flask(__name__)
 def index():
     return(render_template("index.html"))
 
+@app.route("/yearbook/line")
+def line():
+    return(render_template("line.html"))
 
 if __name__ == "__main__":
     app.run(debug=True)
