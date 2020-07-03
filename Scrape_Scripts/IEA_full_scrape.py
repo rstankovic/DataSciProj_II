@@ -103,23 +103,23 @@ for option in energy_types:
 
 for country in countries:
     browser.find_by_css("button.a-dropdown__trigger.f-title-8")[1].click()
-    time.sleep(.8)
+    time.sleep(1.5)
     browser.find_by_css('div.a-dropdown__search input').fill(country)
-    time.sleep(.8)
+    time.sleep(1.5)
     try:
         browser.find_by_css("button.s-active")[0].click()
-        time.sleep(.8)
+        time.sleep(1.5)
         i = 0
         for year in years:
             browser.find_by_css('button.a-dropdown__trigger.f-title-8')[2].click()
-            time.sleep(.8)
+            time.sleep(1.5)
             browser.find_by_css('div.a-dropdown__options ul')[2].find_by_css('li button')[i].click()
             i+=1
             j = 0 
-            time.sleep(.8)
+            time.sleep(1.5)
             for category in series:
                 browser.find_by_css('button.a-dropdown__trigger.f-title-8')[0].click()
-                time.sleep(.8)
+                time.sleep(1.5)
                 browser.find_by_css('div.a-dropdown__options ul')[0].find_by_css('button')[j].click()
                 pull_table(browser, country, year, category)
                 j+=1
