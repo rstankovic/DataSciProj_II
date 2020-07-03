@@ -267,8 +267,6 @@ function updateTraces(id) {
     var energycY2 = [];
     var rY2 = [];
 
-    console.log(country_name);
-    console.log(id);
 
     if (countries.indexOf(country_name) > -1) {
         d3.select(`#${id}`).style("color", "rgb(10, 10, 131)");
