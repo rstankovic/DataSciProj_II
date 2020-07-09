@@ -1,0 +1,25 @@
+,Unnamed: 0,Municipal waste,Industrial waste,Primary solid biofuels,Biogases,Liquid biofuels,Geothermal,Solar thermal,Hydro,Solar PV,"Tide, wave, ocean",Wind,Category
+0,0,282 GWh,5 GWh,1374 GWh,48 GWh,0 GWh,0 GWh,0 GWh,210 GWh,0 GWh,0 GWh,110 GWh,Gross elec generation
+1,1,996 TJ,0 TJ,726 TJ,1 TJ,0 TJ,196 TJ,1 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Gross heat production
+2,2,3388 TJ-net,846 TJ-net,69625 TJ-net,700 TJ-net,24 kt,3600 TJ,105 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Production
+3,3,1140 TJ-net,0 TJ-net,1853 TJ-net,0 TJ-net,47 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Imports
+4,4,0 TJ-net,0 TJ-net,-1658 TJ-net,0 TJ-net,-22 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Exports
+5,5,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,-4 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Stock changes
+6,6,4528 TJ-net,846 TJ-net,69820 TJ-net,700 TJ-net,44 kt,3600 TJ,105 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Domestic supply
+7,7,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Statistical differences and transfers
+8,8,4528 TJ-net,54 TJ-net,17731 TJ-net,255 TJ-net,0 kt,221 TJ,1 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transformation
+9,9,1140 TJ-net,54 TJ-net,16533 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Electricity plants
+10,10,3388 TJ-net,0 TJ-net,823 TJ-net,255 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,CHP plants
+11,11,0 TJ-net,0 TJ-net,375 TJ-net,0 TJ-net,0 kt,221 TJ,1 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Heat plants
+12,12,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other transformation
+13,13,0 TJ-net,0 TJ-net,0 TJ-net,247 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Energy industry own use
+14,14,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Losses
+15,15,0 TJ-net,792 TJ-net,52089 TJ-net,198 TJ-net,44 kt,3379 TJ,104 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Final consumption
+16,16,0 TJ-net,792 TJ-net,4374 TJ-net,0 TJ-net,0 kt,52 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Industry
+17,17,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,44 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transport
+18,18,0 TJ-net,0 TJ-net,46041 TJ-net,0 TJ-net,0 kt,0 TJ,101 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Residential
+19,19,0 TJ-net,0 TJ-net,1234 TJ-net,136 TJ-net,0 kt,2774 TJ,3 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Commercial and public services
+20,20,0 TJ-net,0 TJ-net,440 TJ-net,62 TJ-net,0 kt,553 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Agriculture / forestry
+21,21,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Fishing
+22,22,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other non-specified
+23,23,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Non-energy use

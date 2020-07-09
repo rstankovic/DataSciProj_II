@@ -1,0 +1,29 @@
+,Unnamed: 0,Coal,Crude oil,Oil products,Natural gas,Nuclear,Hydro,"Wind, solar, etc",Biofuels and waste,Electricity,Heat,Total,Category
+0,0,104 ktoe,592 ktoe,0 ktoe,1491 ktoe,0 ktoe,1989 ktoe,2 ktoe,5193 ktoe,0 ktoe,0 ktoe,9371 ktoe,Production
+1,1,3916 ktoe,11127 ktoe,7564 ktoe,2338 ktoe,0 ktoe,0 ktoe,0 ktoe,19 ktoe,140 ktoe,0 ktoe,25105 ktoe,Imports
+2,2,-30 ktoe,0 ktoe,-1215 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,-1245 ktoe,Exports
+3,3,0 ktoe,0 ktoe,-1174 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,-1174 ktoe,International marine bunkers
+4,4,0 ktoe,0 ktoe,-463 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,-463 ktoe,International aviation bunkers
+5,5,-733 ktoe,-300 ktoe,64 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,-968 ktoe,Stock changes
+6,6,3257 ktoe,11420 ktoe,4776 ktoe,3829 ktoe,0 ktoe,1989 ktoe,2 ktoe,5212 ktoe,140 ktoe,0 ktoe,30625 ktoe,TPES
+7,7,0 ktoe,733 ktoe,-712 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,22 ktoe,Transfers
+8,8,68 ktoe,-155 ktoe,-273 ktoe,-102 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,-462 ktoe,Statistical differences
+9,9,-2544 ktoe,0 ktoe,-3137 ktoe,-918 ktoe,0 ktoe,-1989 ktoe,-1 ktoe,0 ktoe,4799 ktoe,0 ktoe,-3790 ktoe,Electricity plants
+10,10,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,-493 ktoe,232 ktoe,0 ktoe,-261 ktoe,CHP plants
+11,11,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,Heat plants
+12,12,28 ktoe,0 ktoe,-58 ktoe,-21 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,-51 ktoe,Gas works
+13,13,0 ktoe,-11998 ktoe,11179 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,-818 ktoe,Oil refineries
+14,14,-168 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,-168 ktoe,Coal transformation
+15,15,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,Liquefication plants
+16,16,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,-276 ktoe,0 ktoe,0 ktoe,-276 ktoe,Other transformation
+17,17,-151 ktoe,0 ktoe,-659 ktoe,-490 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,-187 ktoe,0 ktoe,-1488 ktoe,Energy industry own use
+18,18,-22 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,-424 ktoe,0 ktoe,-446 ktoe,Losses
+19,19,467 ktoe,0 ktoe,11117 ktoe,2297 ktoe,0 ktoe,0 ktoe,1 ktoe,4443 ktoe,4560 ktoe,0 ktoe,22885 ktoe,Total final consumption
+20,20,429 ktoe,0 ktoe,3139 ktoe,226 ktoe,0 ktoe,0 ktoe,0 ktoe,1453 ktoe,3080 ktoe,0 ktoe,8327 ktoe,Industry
+21,21,0 ktoe,0 ktoe,6522 ktoe,23 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,35 ktoe,0 ktoe,6580 ktoe,Transport
+22,22,13 ktoe,0 ktoe,945 ktoe,387 ktoe,0 ktoe,0 ktoe,0 ktoe,2990 ktoe,765 ktoe,0 ktoe,5101 ktoe,Residential
+23,23,18 ktoe,0 ktoe,243 ktoe,119 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,659 ktoe,0 ktoe,1039 ktoe,Commercial and public services
+24,24,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,Agriculture / forestry
+25,25,7 ktoe,0 ktoe,111 ktoe,11 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,21 ktoe,0 ktoe,149 ktoe,Fishing
+26,26,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,1 ktoe,0 ktoe,0 ktoe,0 ktoe,1 ktoe,Non-specified
+27,27,0 ktoe,0 ktoe,157 ktoe,1531 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,1688 ktoe,Non-energy use

@@ -1,0 +1,361 @@
+,Municipal waste,Industrial waste,Primary solid biofuels,Biogases,Liquid biofuels,Geothermal,Solar thermal,Hydro,Solar PV,"Tide, wave, ocean",Wind,Category,Year
+0,16254 GWh,7599 GWh,40432 GWh,6412 GWh,343 GWh,15487 GWh,587 GWh,297894 GWh,378 GWh,0 GWh,14291 GWh,Gross elec generation,2004
+1,908 TJ,1631 TJ,9763 TJ,535 TJ,1 TJ,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Gross heat production,2004
+2,296407 TJ-net,115291 TJ-net,2175723 TJ-net,156590 TJ-net,10823 kt,359861 TJ,58962 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Production,2004
+3,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,362 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Imports,2004
+4,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Exports,2004
+5,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,92 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Stock changes,2004
+6,296407 TJ-net,115291 TJ-net,2175723 TJ-net,156590 TJ-net,11277 kt,359861 TJ,58962 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Domestic supply,2004
+7,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Statistical differences and transfers,2004
+8,274160 TJ-net,59212 TJ-net,561987 TJ-net,79797 TJ-net,106 kt,328420 TJ,6016 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transformation,2004
+9,239156 TJ-net,24881 TJ-net,152428 TJ-net,69461 TJ-net,3 kt,328420 TJ,6016 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Electricity plants,2004
+10,35004 TJ-net,34331 TJ-net,409559 TJ-net,10336 TJ-net,103 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,CHP plants,2004
+11,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Heat plants,2004
+12,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other transformation,2004
+13,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Energy industry own use,2004
+14,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Losses,2004
+15,22247 TJ-net,56079 TJ-net,1613736 TJ-net,76793 TJ-net,11171 kt,31441 TJ,52946 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Final consumption,2004
+16,5058 TJ-net,55547 TJ-net,1130844 TJ-net,74621 TJ-net,409 kt,4009 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Industry,2004
+17,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,10762 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transport,2004
+18,0 TJ-net,0 TJ-net,410944 TJ-net,0 TJ-net,0 kt,14771 TJ,52946 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Residential,2004
+19,17189 TJ-net,532 TJ-net,70579 TJ-net,2172 TJ-net,0 kt,12661 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Commercial and public services,2004
+20,0 TJ-net,0 TJ-net,1369 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Agriculture / forestry,2004
+21,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Fishing,2004
+22,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other non-specified,2004
+23,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Non-energy use,2004
+0,17014 GWh,5748 GWh,41791 GWh,6449 GWh,213 GWh,16778 GWh,596 GWh,297926 GWh,524 GWh,0 GWh,17881 GWh,Gross elec generation,2005
+1,3035 TJ,2061 TJ,11487 TJ,125 TJ,0 TJ,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Gross heat production,2005
+2,297050 TJ-net,104030 TJ-net,2262239 TJ-net,159849 TJ-net,12576 kt,361437 TJ,57291 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Production,2005
+3,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,407 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Imports,2005
+4,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Exports,2005
+5,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,56 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Stock changes,2005
+6,297050 TJ-net,104030 TJ-net,2262239 TJ-net,159849 TJ-net,13039 kt,361437 TJ,57291 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Domestic supply,2005
+7,0 TJ-net,0 TJ-net,0 TJ-net,-1 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Statistical differences and transfers,2005
+8,274278 TJ-net,44571 TJ-net,510738 TJ-net,78706 TJ-net,120 kt,325776 TJ,5641 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transformation,2005
+9,239288 TJ-net,16649 TJ-net,158327 TJ-net,65691 TJ-net,1 kt,325776 TJ,5641 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Electricity plants,2005
+10,34990 TJ-net,27922 TJ-net,352411 TJ-net,13015 TJ-net,118 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,CHP plants,2005
+11,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Heat plants,2005
+12,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other transformation,2005
+13,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Energy industry own use,2005
+14,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Losses,2005
+15,22772 TJ-net,59459 TJ-net,1751501 TJ-net,81142 TJ-net,12920 kt,35661 TJ,51650 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Final consumption,2005
+16,8151 TJ-net,59051 TJ-net,1182217 TJ-net,80368 TJ-net,446 kt,4537 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Industry,2005
+17,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,12474 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transport,2005
+18,0 TJ-net,0 TJ-net,491129 TJ-net,0 TJ-net,0 kt,16775 TJ,51650 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Residential,2005
+19,14621 TJ-net,408 TJ-net,70236 TJ-net,774 TJ-net,0 kt,14349 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Commercial and public services,2005
+20,0 TJ-net,0 TJ-net,7919 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Agriculture / forestry,2005
+21,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Fishing,2005
+22,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other non-specified,2005
+23,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Non-energy use,2005
+0,17303 GWh,5605 GWh,41884 GWh,7058 GWh,164 GWh,16581 GWh,550 GWh,317689 GWh,737 GWh,0 GWh,26676 GWh,Gross elec generation,2006
+1,10075 TJ,3899 TJ,27903 TJ,1095 TJ,0 TJ,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Gross heat production,2006
+2,302904 TJ-net,127560 TJ-net,2197995 TJ-net,169199 TJ-net,15912 kt,361754 TJ,58699 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Production,2006
+3,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,2192 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Imports,2006
+4,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Exports,2006
+5,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,-403 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Stock changes,2006
+6,302904 TJ-net,127560 TJ-net,2197995 TJ-net,169199 TJ-net,17702 kt,361754 TJ,58699 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Domestic supply,2006
+7,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Statistical differences and transfers,2006
+8,272653 TJ-net,52643 TJ-net,384102 TJ-net,85727 TJ-net,34 kt,323033 TJ,5157 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transformation,2006
+9,242329 TJ-net,15779 TJ-net,151273 TJ-net,74157 TJ-net,2 kt,323033 TJ,5157 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Electricity plants,2006
+10,30324 TJ-net,36864 TJ-net,232829 TJ-net,11570 TJ-net,32 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,CHP plants,2006
+11,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Heat plants,2006
+12,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other transformation,2006
+13,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Energy industry own use,2006
+14,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Losses,2006
+15,30251 TJ-net,74917 TJ-net,1813893 TJ-net,83472 TJ-net,17668 kt,38721 TJ,53542 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Final consumption,2006
+16,7603 TJ-net,74506 TJ-net,1345615 TJ-net,81151 TJ-net,397 kt,4642 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Industry,2006
+17,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,17271 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transport,2006
+18,0 TJ-net,0 TJ-net,390898 TJ-net,0 TJ-net,0 kt,19308 TJ,53542 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Residential,2006
+19,22648 TJ-net,411 TJ-net,65156 TJ-net,2321 TJ-net,0 kt,14771 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Commercial and public services,2006
+20,0 TJ-net,0 TJ-net,12224 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Agriculture / forestry,2006
+21,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Fishing,2006
+22,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other non-specified,2006
+23,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Non-energy use,2006
+0,17104 GWh,5006 GWh,41990 GWh,7469 GWh,84 GWh,16798 GWh,673 GWh,275545 GWh,1001 GWh,0 GWh,34603 GWh,Gross elec generation,2007
+1,10707 TJ,3525 TJ,32164 TJ,1281 TJ,0 TJ,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Gross heat production,2007
+2,293723 TJ-net,137921 TJ-net,2157987 TJ-net,183674 TJ-net,21365 kt,367930 TJ,61691 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Production,2007
+3,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,1785 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Imports,2007
+4,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,-907 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Exports,2007
+5,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,-223 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Stock changes,2007
+6,293723 TJ-net,137921 TJ-net,2157987 TJ-net,183674 TJ-net,22020 kt,367930 TJ,61691 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Domestic supply,2007
+7,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Statistical differences and transfers,2007
+8,272037 TJ-net,46643 TJ-net,394897 TJ-net,87890 TJ-net,25 kt,324567 TJ,6216 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transformation,2007
+9,240859 TJ-net,12975 TJ-net,156189 TJ-net,76129 TJ-net,3 kt,324567 TJ,6216 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Electricity plants,2007
+10,31178 TJ-net,33668 TJ-net,238708 TJ-net,11761 TJ-net,22 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,CHP plants,2007
+11,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Heat plants,2007
+12,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other transformation,2007
+13,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Energy industry own use,2007
+14,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Losses,2007
+15,21686 TJ-net,91278 TJ-net,1763090 TJ-net,95784 TJ-net,21995 kt,43363 TJ,55475 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Final consumption,2007
+16,6741 TJ-net,90652 TJ-net,1246816 TJ-net,93114 TJ-net,153 kt,4959 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Industry,2007
+17,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,21842 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transport,2007
+18,0 TJ-net,0 TJ-net,430990 TJ-net,0 TJ-net,0 kt,23211 TJ,55475 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Residential,2007
+19,14945 TJ-net,626 TJ-net,69815 TJ-net,2670 TJ-net,0 kt,15193 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Commercial and public services,2007
+20,0 TJ-net,0 TJ-net,15469 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Agriculture / forestry,2007
+21,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Fishing,2007
+22,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other non-specified,2007
+23,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Non-energy use,2007
+0,16987 GWh,5344 GWh,41619 GWh,8427 GWh,88 GWh,16873 GWh,878 GWh,281995 GWh,1214 GWh,0 GWh,55696 GWh,Gross elec generation,2008
+1,11378 TJ,3751 TJ,28358 TJ,1062 TJ,0 TJ,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Gross heat production,2008
+2,302985 TJ-net,103305 TJ-net,2112246 TJ-net,196038 TJ-net,30340 kt,339297 TJ,65519 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Production,2008
+3,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,2638 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Imports,2008
+4,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,-2258 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Exports,2008
+5,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,-465 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Stock changes,2008
+6,302985 TJ-net,103305 TJ-net,2112246 TJ-net,196038 TJ-net,30255 kt,339297 TJ,65519 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Domestic supply,2008
+7,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Statistical differences and transfers,2008
+8,276512 TJ-net,52693 TJ-net,382917 TJ-net,101786 TJ-net,28 kt,329063 TJ,8193 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transformation,2008
+9,244467 TJ-net,17178 TJ-net,157916 TJ-net,90356 TJ-net,3 kt,329063 TJ,8193 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Electricity plants,2008
+10,32045 TJ-net,35515 TJ-net,225001 TJ-net,11430 TJ-net,24 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,CHP plants,2008
+11,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Heat plants,2008
+12,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other transformation,2008
+13,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Energy industry own use,2008
+14,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Losses,2008
+15,26473 TJ-net,50612 TJ-net,1729329 TJ-net,94252 TJ-net,30228 kt,10234 TJ,57326 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Final consumption,2008
+16,4684 TJ-net,50531 TJ-net,1190082 TJ-net,92879 TJ-net,138 kt,4959 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Industry,2008
+17,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,30090 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transport,2008
+18,0 TJ-net,0 TJ-net,451036 TJ-net,0 TJ-net,0 kt,1477 TJ,57326 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Residential,2008
+19,21789 TJ-net,81 TJ-net,73249 TJ-net,1373 TJ-net,0 kt,3798 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Commercial and public services,2008
+20,0 TJ-net,0 TJ-net,14962 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Agriculture / forestry,2008
+21,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Fishing,2008
+22,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other non-specified,2008
+23,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Non-energy use,2008
+0,16909 GWh,5532 GWh,40478 GWh,9281 GWh,91 GWh,17046 GWh,816 GWh,298410 GWh,1699 GWh,0 GWh,74226 GWh,Gross elec generation,2009
+1,11736 TJ,3818 TJ,30839 TJ,999 TJ,0 TJ,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Gross heat production,2009
+2,299398 TJ-net,120217 TJ-net,1948306 TJ-net,213091 TJ-net,34656 kt,341617 TJ,65129 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Production,2009
+3,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,853 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Imports,2009
+4,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,-887 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Exports,2009
+5,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,-398 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Stock changes,2009
+6,299398 TJ-net,120217 TJ-net,1948306 TJ-net,213091 TJ-net,34224 kt,341617 TJ,65129 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Domestic supply,2009
+7,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,96 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Statistical differences and transfers,2009
+8,274202 TJ-net,53054 TJ-net,367564 TJ-net,107375 TJ-net,27 kt,332438 TJ,7564 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transformation,2009
+9,240791 TJ-net,15050 TJ-net,144636 TJ-net,93675 TJ-net,3 kt,332438 TJ,7564 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Electricity plants,2009
+10,33411 TJ-net,38004 TJ-net,222928 TJ-net,13700 TJ-net,25 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,CHP plants,2009
+11,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Heat plants,2009
+12,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other transformation,2009
+13,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Energy industry own use,2009
+14,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Losses,2009
+15,25196 TJ-net,67163 TJ-net,1580742 TJ-net,105716 TJ-net,34292 kt,9179 TJ,57565 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Final consumption,2009
+16,4551 TJ-net,67078 TJ-net,1062810 TJ-net,104324 TJ-net,142 kt,4431 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Industry,2009
+17,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,34150 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transport,2009
+18,0 TJ-net,0 TJ-net,430990 TJ-net,0 TJ-net,0 kt,1372 TJ,57565 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Residential,2009
+19,20645 TJ-net,85 TJ-net,72659 TJ-net,1392 TJ-net,0 kt,3376 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Commercial and public services,2009
+20,0 TJ-net,0 TJ-net,14283 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Agriculture / forestry,2009
+21,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Fishing,2009
+22,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other non-specified,2009
+23,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Non-energy use,2009
+0,16623 GWh,3547 GWh,42536 GWh,9806 GWh,94 GWh,17577 GWh,879 GWh,286333 GWh,3063 GWh,0 GWh,95148 GWh,Gross elec generation,2010
+1,11362 TJ,3807 TJ,26954 TJ,1883 TJ,0 TJ,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Gross heat production,2010
+2,290732 TJ-net,80589 TJ-net,2202485 TJ-net,116208 TJ-net,40106 kt,353529 TJ,87203 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Production,2010
+3,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,74 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Imports,2010
+4,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,-1187 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Exports,2010
+5,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,-156 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Stock changes,2010
+6,290732 TJ-net,80589 TJ-net,2202485 TJ-net,116208 TJ-net,38836 kt,353529 TJ,87203 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Domestic supply,2010
+7,0 TJ-net,-1 TJ-net,-2 TJ-net,-1 TJ-net,-2552 kt,0 TJ,1 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Statistical differences and transfers,2010
+8,270201 TJ-net,41741 TJ-net,397912 TJ-net,114408 TJ-net,30 kt,342777 TJ,7719 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transformation,2010
+9,240076 TJ-net,14608 TJ-net,166867 TJ-net,99778 TJ-net,3 kt,342777 TJ,7719 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Electricity plants,2010
+10,30125 TJ-net,27133 TJ-net,231045 TJ-net,14630 TJ-net,27 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,CHP plants,2010
+11,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Heat plants,2010
+12,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other transformation,2010
+13,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Energy industry own use,2010
+14,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Losses,2010
+15,20531 TJ-net,38847 TJ-net,1804571 TJ-net,1799 TJ-net,36255 kt,10752 TJ,79485 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Final consumption,2010
+16,2036 TJ-net,38709 TJ-net,1153758 TJ-net,301 TJ-net,165 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Industry,2010
+17,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,36090 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transport,2010
+18,0 TJ-net,0 TJ-net,544007 TJ-net,0 TJ-net,0 kt,10752 TJ,3442 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Residential,2010
+19,18495 TJ-net,138 TJ-net,50012 TJ-net,1498 TJ-net,0 kt,0 TJ,76043 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Commercial and public services,2010
+20,0 TJ-net,0 TJ-net,56794 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Agriculture / forestry,2010
+21,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Fishing,2010
+22,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other non-specified,2010
+23,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Non-energy use,2010
+0,16894 GWh,3712 GWh,42913 GWh,10613 GWh,177 GWh,17840 GWh,893 GWh,344561 GWh,5322 GWh,0 GWh,120854 GWh,Gross elec generation,2011
+1,12014 TJ,4927 TJ,23028 TJ,2523 TJ,0 TJ,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Gross heat production,2011
+2,298713 TJ-net,83523 TJ-net,2183084 TJ-net,124109 TJ-net,44595 kt,358282 TJ,90764 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Production,2011
+3,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,583 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Imports,2011
+4,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,-3813 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Exports,2011
+5,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,-184 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Stock changes,2011
+6,298713 TJ-net,83523 TJ-net,2183084 TJ-net,124109 TJ-net,41180 kt,358282 TJ,90764 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Domestic supply,2011
+7,-2 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Statistical differences and transfers,2011
+8,277175 TJ-net,44793 TJ-net,391402 TJ-net,122381 TJ-net,118 kt,347918 TJ,7853 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transformation,2011
+9,248356 TJ-net,15243 TJ-net,158662 TJ-net,106168 TJ-net,47 kt,347918 TJ,7853 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Electricity plants,2011
+10,28819 TJ-net,29550 TJ-net,232740 TJ-net,16213 TJ-net,71 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,CHP plants,2011
+11,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Heat plants,2011
+12,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other transformation,2011
+13,0 TJ-net,0 TJ-net,70 TJ-net,0 TJ-net,181 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Energy industry own use,2011
+14,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Losses,2011
+15,21536 TJ-net,38730 TJ-net,1791612 TJ-net,1728 TJ-net,40881 kt,10364 TJ,82911 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Final consumption,2011
+16,2412 TJ-net,38714 TJ-net,1162274 TJ-net,371 TJ-net,703 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Industry,2011
+17,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,39229 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transport,2011
+18,0 TJ-net,0 TJ-net,529777 TJ-net,0 TJ-net,363 kt,10364 TJ,4607 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Residential,2011
+19,19124 TJ-net,16 TJ-net,44478 TJ-net,1357 TJ-net,272 kt,0 TJ,78304 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Commercial and public services,2011
+20,0 TJ-net,0 TJ-net,55083 TJ-net,0 TJ-net,314 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Agriculture / forestry,2011
+21,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Fishing,2011
+22,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other non-specified,2011
+23,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Non-energy use,2011
+0,16960 GWh,3437 GWh,43696 GWh,11568 GWh,195 GWh,18135 GWh,959 GWh,298287 GWh,9186 GWh,0 GWh,141922 GWh,Gross elec generation,2012
+1,8647 TJ,7137 TJ,26089 TJ,2640 TJ,0 TJ,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Gross heat production,2012
+2,298814 TJ-net,75157 TJ-net,2127135 TJ-net,137446 TJ-net,42707 kt,363442 TJ,94688 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Production,2012
+3,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,1682 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Imports,2012
+4,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,-2639 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Exports,2012
+5,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,-263 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Stock changes,2012
+6,298814 TJ-net,75157 TJ-net,2127135 TJ-net,137446 TJ-net,41460 kt,363442 TJ,94688 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Domestic supply,2012
+7,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Statistical differences and transfers,2012
+8,274975 TJ-net,45734 TJ-net,435309 TJ-net,135501 TJ-net,141 kt,353668 TJ,8356 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transformation,2012
+9,249674 TJ-net,16807 TJ-net,199989 TJ-net,119041 TJ-net,38 kt,353668 TJ,8356 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Electricity plants,2012
+10,25301 TJ-net,28927 TJ-net,235320 TJ-net,16460 TJ-net,103 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,CHP plants,2012
+11,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Heat plants,2012
+12,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other transformation,2012
+13,0 TJ-net,0 TJ-net,200 TJ-net,0 TJ-net,113 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Energy industry own use,2012
+14,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Losses,2012
+15,23839 TJ-net,29423 TJ-net,1691626 TJ-net,1945 TJ-net,41206 kt,9774 TJ,86332 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Final consumption,2012
+16,2977 TJ-net,29423 TJ-net,1173381 TJ-net,316 TJ-net,689 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Industry,2012
+17,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,39974 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transport,2012
+18,0 TJ-net,0 TJ-net,444435 TJ-net,0 TJ-net,204 kt,9774 TJ,5779 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Residential,2012
+19,20862 TJ-net,0 TJ-net,32809 TJ-net,1629 TJ-net,150 kt,0 TJ,80553 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Commercial and public services,2012
+20,0 TJ-net,0 TJ-net,41001 TJ-net,0 TJ-net,189 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Agriculture / forestry,2012
+21,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Fishing,2012
+22,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other non-specified,2012
+23,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Non-energy use,2012
+0,16511 GWh,3141 GWh,45535 GWh,12791 GWh,193 GWh,18422 GWh,1014 GWh,290113 GWh,14858 GWh,0 GWh,169713 GWh,Gross elec generation,2013
+1,8574 TJ,4904 TJ,27494 TJ,870 TJ,0 TJ,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Gross heat production,2013
+2,296627 TJ-net,59796 TJ-net,2286469 TJ-net,159411 TJ-net,44105 kt,369623 TJ,98238 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Production,2013
+3,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,3050 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Imports,2013
+4,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,-2500 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Exports,2013
+5,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,147 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Stock changes,2013
+6,296627 TJ-net,59796 TJ-net,2286469 TJ-net,159411 TJ-net,44757 kt,369623 TJ,98238 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Domestic supply,2013
+7,-1 TJ-net,0 TJ-net,-1 TJ-net,1 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Statistical differences and transfers,2013
+8,274962 TJ-net,37864 TJ-net,439100 TJ-net,146036 TJ-net,140 kt,359268 TJ,8746 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transformation,2013
+9,249658 TJ-net,16088 TJ-net,197031 TJ-net,132023 TJ-net,43 kt,359268 TJ,8746 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Electricity plants,2013
+10,25304 TJ-net,21776 TJ-net,242069 TJ-net,14013 TJ-net,97 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,CHP plants,2013
+11,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Heat plants,2013
+12,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other transformation,2013
+13,0 TJ-net,0 TJ-net,130 TJ-net,0 TJ-net,118 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Energy industry own use,2013
+14,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Losses,2013
+15,21664 TJ-net,21932 TJ-net,1847238 TJ-net,13376 TJ-net,44499 kt,10355 TJ,89492 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Final consumption,2013
+16,2934 TJ-net,21932 TJ-net,1182850 TJ-net,12168 TJ-net,654 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Industry,2013
+17,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,43281 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transport,2013
+18,0 TJ-net,0 TJ-net,583335 TJ-net,0 TJ-net,215 kt,10355 TJ,6931 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Residential,2013
+19,18730 TJ-net,0 TJ-net,41782 TJ-net,1208 TJ-net,150 kt,0 TJ,82561 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Commercial and public services,2013
+20,0 TJ-net,0 TJ-net,39271 TJ-net,0 TJ-net,199 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Agriculture / forestry,2013
+21,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Fishing,2013
+22,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other non-specified,2013
+23,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Non-energy use,2013
+0,16591 GWh,2821 GWh,48563 GWh,13586 GWh,208 GWh,18710 GWh,2688 GWh,281527 GWh,23076 GWh,0 GWh,183892 GWh,Gross elec generation,2014
+1,10633 TJ,4938 TJ,29987 TJ,994 TJ,0 TJ,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Gross heat production,2014
+2,295170 TJ-net,58520 TJ-net,2369657 TJ-net,183110 TJ-net,46820 kt,375852 TJ,116043 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Production,2014
+3,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,1330 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Imports,2014
+4,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,-2773 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Exports,2014
+5,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,-164 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Stock changes,2014
+6,295170 TJ-net,58520 TJ-net,2369657 TJ-net,183110 TJ-net,45100 kt,375852 TJ,116043 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Domestic supply,2014
+7,0 TJ-net,0 TJ-net,1 TJ-net,1 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Statistical differences and transfers,2014
+8,274254 TJ-net,38567 TJ-net,484876 TJ-net,162387 TJ-net,159 kt,364883 TJ,23271 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transformation,2014
+9,245489 TJ-net,17016 TJ-net,232952 TJ-net,148209 TJ-net,60 kt,364883 TJ,23271 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Electricity plants,2014
+10,28765 TJ-net,21551 TJ-net,251924 TJ-net,14178 TJ-net,100 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,CHP plants,2014
+11,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Heat plants,2014
+12,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other transformation,2014
+13,0 TJ-net,0 TJ-net,90 TJ-net,0 TJ-net,100 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Energy industry own use,2014
+14,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Losses,2014
+15,20916 TJ-net,19953 TJ-net,1884692 TJ-net,20724 TJ-net,44841 kt,10969 TJ,92772 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Final consumption,2014
+16,3139 TJ-net,19953 TJ-net,1192040 TJ-net,19162 TJ-net,616 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Industry,2014
+17,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,43724 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transport,2014
+18,0 TJ-net,0 TJ-net,593682 TJ-net,0 TJ-net,195 kt,10969 TJ,8153 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Residential,2014
+19,17777 TJ-net,0 TJ-net,61546 TJ-net,1554 TJ-net,130 kt,0 TJ,84619 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Commercial and public services,2014
+20,0 TJ-net,0 TJ-net,37424 TJ-net,8 TJ-net,176 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Agriculture / forestry,2014
+21,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Fishing,2014
+22,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other non-specified,2014
+23,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Non-energy use,2014
+0,16523 GWh,2303 GWh,47743 GWh,13674 GWh,223 GWh,18727 GWh,3544 GWh,271129 GWh,32091 GWh,0 GWh,192992 GWh,Gross elec generation,2015
+1,10747 TJ,4300 TJ,27400 TJ,1388 TJ,0 TJ,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Gross heat production,2015
+2,294282 TJ-net,50686 TJ-net,2192710 TJ-net,177841 TJ-net,48231 kt,376496 TJ,125981 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Production,2015
+3,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,2213 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Imports,2015
+4,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,-2755 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Exports,2015
+5,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,-590 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Stock changes,2015
+6,294282 TJ-net,50686 TJ-net,2192710 TJ-net,177841 TJ-net,46936 kt,376496 TJ,125981 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Domestic supply,2015
+7,1 TJ-net,0 TJ-net,1 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Statistical differences and transfers,2015
+8,271824 TJ-net,33475 TJ-net,461763 TJ-net,159616 TJ-net,162 kt,365216 TJ,30141 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transformation,2015
+9,242891 TJ-net,16324 TJ-net,213342 TJ-net,144764 TJ-net,58 kt,365216 TJ,30141 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Electricity plants,2015
+10,28933 TJ-net,17151 TJ-net,248421 TJ-net,14852 TJ-net,104 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,CHP plants,2015
+11,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Heat plants,2015
+12,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other transformation,2015
+13,0 TJ-net,0 TJ-net,90 TJ-net,0 TJ-net,134 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Energy industry own use,2015
+14,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Losses,2015
+15,22459 TJ-net,17211 TJ-net,1730858 TJ-net,18225 TJ-net,46640 kt,11280 TJ,95840 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Final consumption,2015
+16,3293 TJ-net,17211 TJ-net,1187436 TJ-net,16435 TJ-net,731 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Industry,2015
+17,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,45262 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transport,2015
+18,0 TJ-net,0 TJ-net,441979 TJ-net,0 TJ-net,252 kt,11280 TJ,9281 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Residential,2015
+19,19166 TJ-net,0 TJ-net,61689 TJ-net,1790 TJ-net,169 kt,0 TJ,86559 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Commercial and public services,2015
+20,0 TJ-net,0 TJ-net,39754 TJ-net,0 TJ-net,226 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Agriculture / forestry,2015
+21,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Fishing,2015
+22,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other non-specified,2015
+23,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Non-energy use,2015
+0,16714 GWh,1940 GWh,46817 GWh,13466 GWh,210 GWh,18584 GWh,3701 GWh,292113 GWh,46633 GWh,0 GWh,229471 GWh,Gross elec generation,2016
+1,14227 TJ,6815 TJ,34314 TJ,2907 TJ,0 TJ,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Gross heat production,2016
+2,303080 TJ-net,45038 TJ-net,2090260 TJ-net,154864 TJ-net,51057 kt,383501 TJ,113790 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Production,2016
+3,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,3211 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Imports,2016
+4,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,-3792 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Exports,2016
+5,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,-258 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Stock changes,2016
+6,303080 TJ-net,45038 TJ-net,2090260 TJ-net,154864 TJ-net,50052 kt,383501 TJ,113790 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Domestic supply,2016
+7,0 TJ-net,0 TJ-net,2 TJ-net,-1 TJ-net,183 kt,-1 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Statistical differences and transfers,2016
+8,280711 TJ-net,26960 TJ-net,424019 TJ-net,150566 TJ-net,102 kt,371672 TJ,31310 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transformation,2016
+9,249917 TJ-net,11791 TJ-net,195307 TJ-net,136353 TJ-net,44 kt,371672 TJ,31310 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Electricity plants,2016
+10,30794 TJ-net,15169 TJ-net,228712 TJ-net,14213 TJ-net,58 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,CHP plants,2016
+11,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Heat plants,2016
+12,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other transformation,2016
+13,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,138 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Energy industry own use,2016
+14,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Losses,2016
+15,22369 TJ-net,18078 TJ-net,1666243 TJ-net,4297 TJ-net,49994 kt,11828 TJ,82480 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Final consumption,2016
+16,3375 TJ-net,18078 TJ-net,1198317 TJ-net,792 TJ-net,827 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Industry,2016
+17,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,48505 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transport,2016
+18,0 TJ-net,0 TJ-net,374198 TJ-net,0 TJ-net,223 kt,11828 TJ,10341 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Residential,2016
+19,18994 TJ-net,0 TJ-net,54772 TJ-net,3481 TJ-net,210 kt,0 TJ,72139 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Commercial and public services,2016
+20,0 TJ-net,0 TJ-net,38956 TJ-net,24 TJ-net,229 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Agriculture / forestry,2016
+21,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Fishing,2016
+22,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other non-specified,2016
+23,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Non-energy use,2016
+0,16047 GWh,1798 GWh,46735 GWh,13722 GWh,217 GWh,18726 GWh,3587 GWh,325114 GWh,67393 GWh,0 GWh,257249 GWh,Gross elec generation,2017
+1,13394 TJ,6049 TJ,33698 TJ,2673 TJ,0 TJ,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Gross heat production,2017
+2,292165 TJ-net,41360 TJ-net,2070645 TJ-net,155906 TJ-net,52697 kt,385637 TJ,107640 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Production,2017
+3,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,2171 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Imports,2017
+4,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,-4434 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Exports,2017
+5,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,22 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Stock changes,2017
+6,292165 TJ-net,41360 TJ-net,2070645 TJ-net,155906 TJ-net,50235 kt,385637 TJ,107640 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Domestic supply,2017
+7,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,156 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Statistical differences and transfers,2017
+8,270064 TJ-net,25376 TJ-net,431229 TJ-net,151529 TJ-net,133 kt,374529 TJ,30190 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transformation,2017
+9,240766 TJ-net,11470 TJ-net,203020 TJ-net,137780 TJ-net,77 kt,374529 TJ,30190 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Electricity plants,2017
+10,29298 TJ-net,13905 TJ-net,228209 TJ-net,13750 TJ-net,56 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,CHP plants,2017
+11,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Heat plants,2017
+12,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other transformation,2017
+13,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,132 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Energy industry own use,2017
+14,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Losses,2017
+15,22100 TJ-net,15984 TJ-net,1639416 TJ-net,4377 TJ-net,50127 kt,11108 TJ,77450 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Final consumption,2017
+16,3482 TJ-net,15984 TJ-net,1214175 TJ-net,877 TJ-net,1048 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Industry,2017
+17,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,47989 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transport,2017
+18,0 TJ-net,0 TJ-net,330595 TJ-net,0 TJ-net,419 kt,11108 TJ,6887 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Residential,2017
+19,18618 TJ-net,0 TJ-net,58574 TJ-net,3471 TJ-net,329 kt,0 TJ,70563 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Commercial and public services,2017
+20,0 TJ-net,0 TJ-net,36072 TJ-net,29 TJ-net,343 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Agriculture / forestry,2017
+21,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Fishing,2017
+22,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other non-specified,2017
+23,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Non-energy use,2017
+0,16472 GWh,1787 GWh,45646 GWh,13095 GWh,214 GWh,18962 GWh,4640 GWh,315619 GWh,87183 GWh,0 GWh,277918 GWh,Gross elec generation,2018
+1,12178 TJ,6120 TJ,34063 TJ,2802 TJ,0 TJ,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Gross heat production,2018
+2,291378 TJ-net,33939 TJ-net,2366156 TJ-net,157577 TJ-net,53840 kt,423174 TJ,142947 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Production,2018
+3,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,1294 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Imports,2018
+4,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,-5443 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Exports,2018
+5,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,-227 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Stock changes,2018
+6,291378 TJ-net,33939 TJ-net,2366156 TJ-net,157577 TJ-net,49279 kt,423174 TJ,142947 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Domestic supply,2018
+7,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Statistical differences and transfers,2018
+8,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transformation,2018
+9,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Electricity plants,2018
+10,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,CHP plants,2018
+11,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Heat plants,2018
+12,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other transformation,2018
+13,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Energy industry own use,2018
+14,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Losses,2018
+15,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Final consumption,2018
+16,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Industry,2018
+17,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Transport,2018
+18,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Residential,2018
+19,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Commercial and public services,2018
+20,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Agriculture / forestry,2018
+21,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Fishing,2018
+22,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Other non-specified,2018
+23,0 TJ-net,0 TJ-net,0 TJ-net,0 TJ-net,0 kt,0 TJ,0 TJ,UNIT N/A,UNIT N/A,UNIT N/A,UNIT N/A,Non-energy use,2018

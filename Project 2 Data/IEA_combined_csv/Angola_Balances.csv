@@ -1,0 +1,57 @@
+,Coal,Crude oil,Oil products,Natural gas,Nuclear,Hydro,"Wind, solar, etc",Biofuels and waste,Electricity,Heat,Total,Category,Year
+0,0 ktoe,50600 ktoe,0 ktoe,613 ktoe,0 ktoe,150 ktoe,0 ktoe,5108 ktoe,0 ktoe,0 ktoe,56472 ktoe,Production,2004
+1,0 ktoe,0 ktoe,1071 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,1071 ktoe,Imports,2004
+2,0 ktoe,-48094 ktoe,-589 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,-48683 ktoe,Exports,2004
+3,0 ktoe,0 ktoe,-150 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,-150 ktoe,International marine bunkers,2004
+4,0 ktoe,0 ktoe,-272 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,-272 ktoe,International aviation bunkers,2004
+5,0 ktoe,-508 ktoe,153 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,-355 ktoe,Stock changes,2004
+6,0 ktoe,1998 ktoe,215 ktoe,613 ktoe,0 ktoe,150 ktoe,0 ktoe,5108 ktoe,0 ktoe,0 ktoe,8084 ktoe,TPES,2004
+7,0 ktoe,-119 ktoe,134 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,15 ktoe,Transfers,2004
+8,0 ktoe,0 ktoe,31 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,31 ktoe,Statistical differences,2004
+9,0 ktoe,0 ktoe,-207 ktoe,0 ktoe,0 ktoe,-150 ktoe,0 ktoe,0 ktoe,192 ktoe,0 ktoe,-166 ktoe,Electricity plants,2004
+10,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,CHP plants,2004
+11,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,Heat plants,2004
+12,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,Gas works,2004
+13,0 ktoe,-1879 ktoe,1877 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,-2 ktoe,Oil refineries,2004
+14,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,Coal transformation,2004
+15,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,Liquefication plants,2004
+16,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,-1233 ktoe,0 ktoe,0 ktoe,-1233 ktoe,Other transformation,2004
+17,0 ktoe,0 ktoe,-85 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,-10 ktoe,0 ktoe,-95 ktoe,Energy industry own use,2004
+18,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,-51 ktoe,0 ktoe,-51 ktoe,Losses,2004
+19,0 ktoe,0 ktoe,1964 ktoe,613 ktoe,0 ktoe,0 ktoe,0 ktoe,3875 ktoe,131 ktoe,0 ktoe,6583 ktoe,Total final consumption,2004
+20,0 ktoe,0 ktoe,215 ktoe,613 ktoe,0 ktoe,0 ktoe,0 ktoe,90 ktoe,40 ktoe,0 ktoe,958 ktoe,Industry,2004
+21,0 ktoe,0 ktoe,1155 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,1155 ktoe,Transport,2004
+22,0 ktoe,0 ktoe,174 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,3785 ktoe,91 ktoe,0 ktoe,4050 ktoe,Residential,2004
+23,0 ktoe,0 ktoe,257 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,257 ktoe,Commercial and public services,2004
+24,0 ktoe,0 ktoe,2 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,2 ktoe,Agriculture / forestry,2004
+25,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,Fishing,2004
+26,0 ktoe,0 ktoe,3 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,3 ktoe,Non-specified,2004
+27,0 ktoe,0 ktoe,158 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,158 ktoe,Non-energy use,2004
+0,0 ktoe,63754 ktoe,0 ktoe,531 ktoe,0 ktoe,191 ktoe,0 ktoe,5157 ktoe,0 ktoe,0 ktoe,69633 ktoe,Production,2005
+1,0 ktoe,0 ktoe,667 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,667 ktoe,Imports,2005
+2,0 ktoe,-61364 ktoe,-809 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,-62173 ktoe,Exports,2005
+3,0 ktoe,0 ktoe,-105 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,-105 ktoe,International marine bunkers,2005
+4,0 ktoe,0 ktoe,-190 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,-190 ktoe,International aviation bunkers,2005
+5,0 ktoe,-342 ktoe,10 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,-332 ktoe,Stock changes,2005
+6,0 ktoe,2048 ktoe,-426 ktoe,531 ktoe,0 ktoe,191 ktoe,0 ktoe,5157 ktoe,0 ktoe,0 ktoe,7501 ktoe,TPES,2005
+7,0 ktoe,-132 ktoe,149 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,17 ktoe,Transfers,2005
+8,0 ktoe,0 ktoe,178 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,178 ktoe,Statistical differences,2005
+9,0 ktoe,0 ktoe,-243 ktoe,0 ktoe,0 ktoe,-191 ktoe,0 ktoe,0 ktoe,240 ktoe,0 ktoe,-195 ktoe,Electricity plants,2005
+10,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,CHP plants,2005
+11,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,Heat plants,2005
+12,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,Gas works,2005
+13,0 ktoe,-1916 ktoe,1859 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,-57 ktoe,Oil refineries,2005
+14,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,Coal transformation,2005
+15,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,Liquefication plants,2005
+16,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,-1245 ktoe,0 ktoe,0 ktoe,-1245 ktoe,Other transformation,2005
+17,0 ktoe,0 ktoe,-86 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,-12 ktoe,0 ktoe,-99 ktoe,Energy industry own use,2005
+18,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,-57 ktoe,0 ktoe,-57 ktoe,Losses,2005
+19,0 ktoe,0 ktoe,1430 ktoe,531 ktoe,0 ktoe,0 ktoe,0 ktoe,3912 ktoe,170 ktoe,0 ktoe,6044 ktoe,Total final consumption,2005
+20,0 ktoe,0 ktoe,152 ktoe,531 ktoe,0 ktoe,0 ktoe,0 ktoe,91 ktoe,53 ktoe,0 ktoe,826 ktoe,Industry,2005
+21,0 ktoe,0 ktoe,828 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,828 ktoe,Transport,2005
+22,0 ktoe,0 ktoe,127 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,3821 ktoe,118 ktoe,0 ktoe,4066 ktoe,Residential,2005
+23,0 ktoe,0 ktoe,195 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,195 ktoe,Commercial and public services,2005
+24,0 ktoe,0 ktoe,2 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,2 ktoe,Agriculture / forestry,2005
+25,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,Fishing,2005
+26,0 ktoe,0 ktoe,2 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,2 ktoe,Non-specified,2005
+27,0 ktoe,0 ktoe,124 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,0 ktoe,124 ktoe,Non-energy use,2005
