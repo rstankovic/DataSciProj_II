@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <title>Database Search</title>
+</head>
+<body>
+    <form action='/database/' method='post'>
+        <div class="form-group">
+          <label for="exampleFormControlSelect1">Country Select</label>
+          <select name="country-select" class="form-control" id="country_input">
+          </select>
+        </div>
+        <div class="form-group">
+            <label for="exampleFormControlSelect1">Year Select</label>
+            <select name="year-select" class="form-control" id="year_input">
+            </select>
+          </div>
+          <div class="form-group">
+              <label for="exampleFormControlSelect1">Energy Category</label>
+              <select name="energycategory-select" class="form-control" id="energycategory_input">
+              </select>
+          </div>
+          <div class="form-group">
+            <label for="exampleFormControlSelect1">Category Select</label>
+            <select name="category-select" class="form-control" id="category_input">
+            </select>
+          </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+      </form>
+      </div>
+      <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="../Project 2 Data/plot.png" alt="Card image cap">
+      </div>
+    <h6>Based on IEA data from the IEA (2018) Monthly Oil Data Service, www.iea.org/statistics. All rights
+        reserved; as modified by Christian.</h6>
+    <script src="../static/js/logic_db.js"></script>
+</body>
+</html>
