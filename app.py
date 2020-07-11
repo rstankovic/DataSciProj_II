@@ -23,7 +23,7 @@ def drawPieChart(energyseries):
     country = energyseries['Country']
     year = energyseries['Year']
     category = energyseries['Category']
-    notvalues = ['Country','Year','Category','_id']
+    notvalues = ['Country','Year','Category','_id', 'Total']
     colors = []
     explode = []
     possiblecolors = ['#932828','#84AE91','#C6C064','#C66464','#83C664','#64C6C2','#64A6C6','#6496C6','#6B64C6','#A264C6','#C664B4','#B35959']
@@ -42,14 +42,15 @@ def drawPieChart(energyseries):
             i+=1
     print(sizes)
     #adjusting all sizes to percentages, labels will have true values
-    total = sum(sizes)
-    for x in range(0,len(sizes)-1):
-        sizes[x] = sizes[x]/total
-        
+    # total = sum(sizes)
+    # for x in range(0,len(sizes)-1):
+    #     sizes[x] = sizes[x]/total
+    plt.clf()
     plt.pie(sizes, explode = explode, labels = labels, colors = colors, autopct = '%1.1f%%', startangle = 140)
     plt.legend(loc='lower left', prop={'size': 6})
     plt.title(f'Percentages of each energy type for {category} in {country} during {year}.', fontsize=5)
     plt.savefig('Project 2 Data/plot.png')
+    plt.savefig('static/images/test_plot.png')
 
 ######################
 
